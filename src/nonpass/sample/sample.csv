@@ -1,0 +1,2 @@
+source_host,source_user,source_directory,target_host,target_user,target_directory,command
+localhost,root,/root,localhost,root,/root,
